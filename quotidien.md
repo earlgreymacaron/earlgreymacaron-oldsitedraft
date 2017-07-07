@@ -2,7 +2,7 @@
 layout: page
 permalink: /quotidien/
 title: quotidien
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+description: My short daily record on random topics.
 ---
 
 <ul class="post-list">
