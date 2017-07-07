@@ -1,12 +1,11 @@
 # Site settings
-title: *folio
-email: you@example.com
+title: macaron blog
+email: yeaseul.parky@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
 baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+url: my.macaron.world
+github_username:  earlgreymacaron
 
 # Build settings
 markdown: kramdown
@@ -19,12 +18,9 @@ paginate_path: "/blog/page:num/"
 
 
 collections:
-  portfolio:
+  quotidien:
     output: true
-    permalink: /portfolio/:path/
-  poetry:
-    output: true
-    permalink: /poetry/:path/
+    permalink: /quotidien/:path/
 
 plugins: [jekyll-paginate]
 
