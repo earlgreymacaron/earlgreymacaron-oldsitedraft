@@ -2,14 +2,13 @@
 layout: page
 title: about
 permalink: /about/
+description: a brief introduction of the author of this blog and what this blog is about
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
-
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+My name is Léa, a student at <a> Korea Advanced Institute of Science and Technology (KAIST)</a>. I am from Korea, and I speak Korean, English, Chinese, and a bit of French. My major is <a>School of Computing</a> at KAIST, but I am staying in Paris from September 2017 to boost up my French skills. This blog will cover my life in Paris, from beginning to the end. The quotidien tab contains short writings on random themes. It only exists to practice my embarrassing French writing skills, so you can ignore it.
 
 
 <br/>
