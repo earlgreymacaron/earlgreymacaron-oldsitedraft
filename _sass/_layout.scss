@@ -143,6 +143,7 @@ line-height: 1;
 text-align: center;
 @include media-query($on-laptop) {
 font-size: 36px;
+text-align: center;
     }
 }
 .post-content {
