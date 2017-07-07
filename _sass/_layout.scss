@@ -4,7 +4,7 @@
  */
 .site-header {
 border-bottom: 1px solid #90f4e3;
-background-color: #fff;
+background-color: #90f4e3;
 opacity: 0.75;
 position:fixed;
 left:0px;
@@ -38,7 +38,7 @@ margin-left: 10px;
 position: fixed;
 top: 0px;
 right: 10px;
-text-align: right;
+text-align: center;
 &:hover .trigger {
 display: block;
 padding-bottom: 5px;
