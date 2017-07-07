@@ -2,7 +2,7 @@
 layout: page
 title: about
 permalink: /about/
-description: a brief introduction of me and what this blog is about
+description: a brief introduction of me and macaron blog
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">
