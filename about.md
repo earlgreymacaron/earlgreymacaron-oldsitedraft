@@ -9,7 +9,7 @@ description: a brief introduction of me and macaron blog
 
 My name is Léa, a student at <a> Korea Advanced Institute of Science and Technology (KAIST)</a>. I am from Korea, and I speak Korean, English, Chinese, and a bit of French. My major is <a>School of Computing</a> at KAIST, but I am staying in Paris from September 2017 to boost up my French skills. 
 
-This blog is named <a>"macaron blog"</a> only because of my strong obsession with macarons. Macarons are my favorite things in the world. They are so pleasing in appearance, taste, scent, and everything. Anyway, this blog covers <a>my life in Paris</a>, from beginning to the end. The quotidien tab contains short writings on random themes. It only exists to practice my embarrassing French writing skills, so you can ignore it.
+This blog is named <a>"macaron blog"</a> only because of my strong obsession with macarons. Macarons are my absolute favorite things in the world. They are so pleasing in appearance, taste, scent, and everything. Anyway, this blog covers <a>my life in Paris</a>, from beginning to the end. The quotidien tab contains short writings on random themes. It only exists to practice my embarrassing French writing skills, so you can ignore it.
 
 
 
