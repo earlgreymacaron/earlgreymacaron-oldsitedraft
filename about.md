@@ -18,10 +18,10 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <span class="contacticon center">
 	<a href="mailto:yeaseul.parky@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/earlgreymacaron" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://facebook" target="_blank"><i class="fa fa-facebook-square"></i></a>
+	<a href="https://www.facebook.com/yeaseul.park.33" target="_blank"><i class="fa fa-facebook-square"></i></a>
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	Contact me for any questions, comments, or concerns!
 </div>
 
