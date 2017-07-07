@@ -5,7 +5,7 @@ permalink: /about/
 description: a brief introduction of me and macaron blog
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" style="padding-left:5px;" src="/img/prof_pic.jpg">
 
 My name is Léa, a student at <a> Korea Advanced Institute of Science and Technology (KAIST)</a>. I am from Korea, and I speak Korean, English, Chinese, and a bit of French. My major is <a>School of Computing</a> at KAIST, but I am staying in Paris from September 2017 to boost up my French skills. 
 
