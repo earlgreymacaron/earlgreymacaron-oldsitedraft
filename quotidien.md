@@ -2,7 +2,7 @@
 layout: page
 permalink: /quotidien/
 title: quotidien
-description: My short daily record on random topics.
+description: short daily chatter on random themes
 ---
 
 <ul class="post-list">
